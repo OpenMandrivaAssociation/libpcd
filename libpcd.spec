@@ -12,7 +12,6 @@ License:	GPL
 Group:		Graphics
 URL:		http://linux.bytesex.org/fbida/libpcd.html
 Source:		http://dl.bytesex.org/releases/%{name}/%{name}_%{version}.tar.bz2
-Buildroot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 %{name} is a tiny library for decoding PhotoCD images. It used to come

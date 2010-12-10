@@ -1,5 +1,5 @@
 %define	version	1.0.1
-%define release	 %mkrel 6
+%define release	 %mkrel 7
 
 %define major	2
 %define libname %mklibname pcd %{major}

@@ -7,7 +7,7 @@ Version:	1.0.3
 Release:	1
 License:	GPL
 Group:		Graphics
-URL:		http://linux.bytesex.org/fbida/libpcd.html
+URL:		https://linux.bytesex.org/fbida/libpcd.html
 Source:		https://git.kraxel.org/cgit/libpcd/snapshot/libpcd-%{version}-1.tar.gz
 
 %description

@@ -10,6 +10,7 @@ Group:		Graphics
 URL:		https://linux.bytesex.org/fbida/libpcd.html
 Source:		https://git.kraxel.org/cgit/libpcd/snapshot/libpcd-%{version}-1.tar.gz
 
+BuildRequires:	make
 %description
 %{name} is a tiny library for decoding PhotoCD images. It used to come
 bundled with xpcd, but software maintainer decided to release the library
